@@ -1,65 +1,116 @@
-# FrelNotes
+<div align="center">
 
-**A flexible note-taking editor for ideas, tasks, and everything in between.**
+<img src="https://github.com/user-attachments/assets/ce60d1e0-417e-4ce7-bee8-4ba357134a31" width="120" alt="FrelNotes Logo" />
 
-FrelNotes is an open-source note editor built around flexible formatting, nested groups, and useful tools that keep your notes organized.
+# ✨ FrelNotes
 
-[Features](#-features) · [Screenshots](#-screenshots) · [Getting Started](#-getting-started) · [Contributing](#-contributing)
+**Гибкий редактор заметок для идей, задач и всего между ними.**
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)](https://github.com/Frelliot/FrelNotes)
+[![GitHub Stars](https://img.shields.io/github/stars/Frelliot/FrelNotes?style=flat-square&color=yellow)](https://github.com/Frelliot/FrelNotes/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Frelliot/FrelNotes?style=flat-square&color=orange)](https://github.com/Frelliot/FrelNotes/issues)
+[![License](https://img.shields.io/github/license/Frelliot/FrelNotes?style=flat-square&color=blue)](https://github.com/Frelliot/FrelNotes/blob/main/LICENSE)
+[![Web App](https://img.shields.io/badge/🌐_Try_Online-frelliot.github.io-success?style=flat-square)](https://frelliot.github.io/FrelNotes/)
+
+<br />
+
+[**Возможности**](#-возможности) · [**Скриншоты**](#-скриншоты) · [**Начать работу**](#-начать-работу) 
+
+</div>
 
 ---
 
-## ✨ Features
+## 📖 О проекте
 
-- **Nested groups** — organize notes into groups and subgroups.
-- **Linked notes** — connect your notes and jump between them.
-- **Customizable groups** — choose colors to organize your workspace visually.
-- **Code blocks** — keep code snippets readable with syntax highlighting.
-- **Mathematical formulas** — write and organize formulas.
-- **Tags** — categorize notes and ideas.
-- **Tasks** — keep track of things you need to do.
-- **Timers and alarms** — built-in tools for focus sessions and reminders.
-- **Dark interface** — a dark UI with customizable color accents.
+> **FrelNotes** — это open-source редактор заметок, построенный вокруг гибкого форматирования, вложенных групп и инструментов, которые помогают держать заметки в порядке.
 
-## 📸 Screenshots
+| 🧩 Гибкость | 🎨 Визуальность | 🛠️ Инструменты |
+|:---:|:---:|:---:|
+| Вложенные группы и связи между заметками | Тёмный интерфейс с настраиваемыми акцентами | Таймеры, задачи, формулы и код |
+
+---
+
+## ✨ Возможности
+
+<table>
+<tr>
+<td width="50%">
+
+### 📂 Организация
+- **🗂️ Вложенные группы** — структурируйте заметки в группы и подгруппы
+- **🔗 Связанные заметки** — соединяйте идеи и переключайтесь между ними
+- **🎨 Настраиваемые группы** — выбирайте цвета для визуальной организации
+- **🏷️ Теги** — категоризируйте заметки и идеи
+
+</td>
+<td width="50%">
+
+### ⚡ Инструменты
+- **💻 Блоки кода** — подсветка синтаксиса для читаемости
+- **📐 Математические формулы** — записывайте и организуйте формулы
+- **✅ Задачи** — отслеживайте, что нужно сделать
+- **⏱️ Таймеры и будильники** — фокус-сессии и напоминания
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🌙 Тёмный интерфейс** с настраиваемыми цветовыми акцентами — комфорт для глаз в любое время
+
+</div>
+
+---
+
+## 📸 Скриншоты
+
+<div align="center">
+
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ce60d1e0-417e-4ce7-bee8-4ba357134a31" width="180" /></td>
-    <td><img src="https://github.com/user-attachments/assets/8df8415a-5d1d-462f-a271-abaecd8dcb78" width="180" /></td>
-    <td><img src="https://github.com/user-attachments/assets/dc506749-d828-4d26-b95c-cd12ad9ee656" width="180" /></td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/ce60d1e0-417e-4ce7-bee8-4ba357134a31" width="100%" alt="Screenshot 1" /><br />
+      <sub><b>Главный экран</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/8df8415a-5d1d-462f-a271-abaecd8dcb78" width="100%" alt="Screenshot 2" /><br />
+      <sub><b>Редактор заметок</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/dc506749-d828-4d26-b95c-cd12ad9ee656" width="100%" alt="Screenshot 3" /><br />
+      <sub><b>Вложенные группы</b></sub>
+    </td>
   </tr>
 </table>
 
-## 🚀 Getting Started
+</div>
 
-### Try the app
-[frelliot.github.io/FrelNotes](https://frelliot.github.io/FrelNotes/)
+---
 
-### Or download it
-[github.com/Frelliot/FrelNotes/releases/tag/build](https://github.com/Frelliot/FrelNotes/releases/tag/build)
-## Roadmap
+## 🚀 Начать работу
 
-Ideas for future development:
+<div align="center">
 
-- [ ] Add more languages (currently only Enligsh + Russian probably)
-- [ ] Add more customization options.
-- [ ] Documentation and better architecture
-- [ ] Make contributing easier for new developers.
+### 🌐 Попробуйте прямо в браузере
 
-Have an idea? Open an issue and share it!
+[![Try Online](https://img.shields.io/badge/🚀_Открыть_веб--версию-frelliot.github.io-2ea44f?style=for-the-badge)](https://frelliot.github.io/FrelNotes/)
 
-## 🤝 Contributing
+### 💾 Или скачайте приложение
 
-FrelNotes is an open-source project, and contributions are welcome.
+[![Download](https://img.shields.io/badge/⬇️_Скачать_последний_билд-Releases-0366d6?style=for-the-badge)](https://github.com/Frelliot/FrelNotes/releases/tag/build)
 
-You can help by:
-- Reporting bugs.
-- Suggesting new features.
-- Improving documentation.
-- Contributing code.
+</div>
 
-If you're new to open source, you're welcome here too!
+### 📦 Установка из исходников
 
+```bash
+# Клонируйте репозиторий
+git clone https://github.com/Frelliot/FrelNotes.git
+cd FrelNotes
 
-Made with ❤️ by [@Frelliot](https://github.com/Frelliot)
+# Установите зависимости
+npm install
 
-If you find FrelNotes interesting, consider giving the project a ⭐ on GitHub!
+# Запустите в режиме разработки
+npm run dev
